@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+
+[project]
+name = "image_to_pdf_converter"
+version = "0.1.0"
+dependencies = [
+    "streamlit",
+    "Pillow",
+    "reportlab"
+]
+
+[tool.streamlit]
+command = "streamlit run app.py"
