@@ -1,5 +1,5 @@
 aiobotocore==2.4.0
-numpy==1.23.5
-Pillow==9.5.0
-reportlab==3.6.12
 streamlit==1.22.0
+Pillow==9.5.0
+numpy==1.23.5
+reportlab==3.6.12
